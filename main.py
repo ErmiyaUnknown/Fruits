@@ -17,7 +17,7 @@ tuple_fruits = (
     
 )
 
-
+bad_fruits = []
 good_fruits = []
 
 
